@@ -51,7 +51,7 @@ while True:
   print("\nMenú:")
   print("1. Buscar por Id")
   print("2. Buscar por nombre")
-  print("3. Salir")
+  print("3. Salir (Al salir se muestra la gráfica de tiempos)")
 
   opcion = input("Seleccione una opción (1, 2, o 3): ")
 
