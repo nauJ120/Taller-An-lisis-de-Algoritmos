@@ -117,4 +117,4 @@ plt.ylabel('Tiempos')
 plt.title('Tiempos de ejecución')
 plt.savefig('TallerClase.png')
 plt.show()
-##BUENAS NOCHEEEEEES :)
+
